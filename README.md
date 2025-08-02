@@ -4,7 +4,7 @@ A responsive e-commerce website built using **HTML**, **CSS**, and **JavaScript*
 
 
 ### 🔗 Live Demo
-👉 Link (https://raykar-commerce-site.netlify.app/)
+👉 Link (https://raykarly.netlify.app/)
 
 ---
 
